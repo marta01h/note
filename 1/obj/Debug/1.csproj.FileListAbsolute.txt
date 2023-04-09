@@ -1,0 +1,6 @@
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\1\1\obj\Debug\1.csproj.AssemblyReference.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\1\1\obj\Debug\1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\1\1\obj\Debug\MainWindow.g.cs
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\1\1\obj\Debug\App.g.cs
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\1\1\obj\Debug\1_MarkupCompile.cache
+C:\Users\Глеб\Desktop\КОДЫЫЫЫ\1\1\obj\Debug\1_MarkupCompile.lref
